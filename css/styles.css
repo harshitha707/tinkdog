@@ -1,0 +1,154 @@
+/* body {
+    font-family: 'Montserrat', sans-serif;
+
+}  */
+
+#title {
+    background-color: #ff4C68;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    size: 4rem;
+    height: 1.5;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    /* height: 1.5; */
+    line-height: 1.5;
+    font-weight: bold;
+    padding: 0 15%;
+
+}
+
+.h3bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #8f8f8f;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+}
+
+/* download-buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+
+}
+
+/* title-image */
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: relative;
+}
+
+/* features */
+
+#features {
+    padding: 8% 5%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+/* icons */
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4C68;
+}
+
+/* Testimonial-section */
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+/* .carousel-item {
+    padding: 7% 15%;
+} */
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.card-group {
+    
+    color:#ff4C68;
+}
+
+/* Pricing section */
+
+#pricing {
+    padding: 100px;
+
+}
+
+.dog-line {
+    text-align: left;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+    text-align: center;
+}
+
